@@ -15,6 +15,6 @@ Para poder visualizar el algoritmo, descargar el codigo, descomprimir y abrir el
 
 ### Estudiantes de la Universidad Distrital Francisco Jose de Caldas
 
-Kevin Alexander Puentes Yaya
+Kevin Alexander Puentes Yaya /
 Daniel Augusto Parra Castiblanco
 
