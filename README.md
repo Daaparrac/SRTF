@@ -13,8 +13,8 @@ Para poder visualizar el algoritmo, descargar el codigo, descomprimir y abrir el
 
 ## Autores
 
-### Estudiantes de la Universidad Distrital Francisco Jose de Caldas
+#### Estudiantes de la Universidad Distrital Francisco Jose de Caldas
 
-Kevin Alexander Puentes Yaya /
-Daniel Augusto Parra Castiblanco
+Kevin Alexander Puentes Yaya - 20151020040        
+Daniel Augusto Parra Castiblanco - 20151020015
 
