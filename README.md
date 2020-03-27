@@ -10,3 +10,11 @@ El tiempo restante más corto es ventajoso porque los procesos cortos se manejan
 ## Uso
 
 Para poder visualizar el algoritmo, descargar el codigo, descomprimir y abrir el index.html
+
+## Autores
+
+### Estudiantes de la Universidad Distrital Francisco Jose de Caldas
+
+Kevin Alexander Puentes Yaya
+Daniel Augusto Parra Castiblanco
+
